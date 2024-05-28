@@ -1,4 +1,4 @@
 # practice
 
 
-Namw - Deepak Gangwani
+Name - Deepak Gangwani
